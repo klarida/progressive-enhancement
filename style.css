@@ -6,7 +6,9 @@ img{
     text-align: center;
     position: center;
 }
-
+p{
+    font-style: Serif; 
+}
 
 li{
     font-style: italic;
