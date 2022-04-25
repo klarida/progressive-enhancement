@@ -2,6 +2,9 @@ h1{
 font-style: italic;
 text-align: center;
 }
+.par{
+    text-align: center;
+}
 img{
     text-align: center;
     position: center;
@@ -11,5 +14,14 @@ p{
 }
 
 li{
-    font-style: italic;
-}
+    font-style: italic;}
+background-img{
+background-repeat: no-repeat;
+background-size: cover;
+background-position: right bottom ;
+    }
+    .pics{
+     display: block;   
+     margin-left: auto;
+     margin-right: auto;
+    }
